@@ -8,4 +8,16 @@
     font-size: 50px;
 }
 
-.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {display: inline;margin: 10px;}
+.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
+    display: inline;
+    margin: 10px;
+}
+
+.Deadline-input {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.form-inline {
+    display: block;
+}
