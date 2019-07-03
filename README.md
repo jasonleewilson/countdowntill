@@ -1,4 +1,5 @@
-Created this Countdowntill app in React to count down till date.
+## About Countdowntill app
+Created in React to count either default or input date time remaining until date.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
