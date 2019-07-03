@@ -33,6 +33,7 @@ class App extends Component {
                         Submit
                     </Button>
                 </Form>
+                <a href="https://github.com/jasonleewilson/countdowntill">view code on Github</a>
             </div>
         )
     }
