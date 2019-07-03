@@ -1,3 +1,5 @@
+Created this Countdowntill app in React to count down till date.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
